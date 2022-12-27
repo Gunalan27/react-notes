@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Gunalan27/react-notes/static/css/main.c99e217d.css",
+    "main.js": "/Gunalan27/react-notes/static/js/main.18f0ec1b.js",
+    "index.html": "/Gunalan27/react-notes/index.html",
+    "main.c99e217d.css.map": "/Gunalan27/react-notes/static/css/main.c99e217d.css.map",
+    "main.18f0ec1b.js.map": "/Gunalan27/react-notes/static/js/main.18f0ec1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c99e217d.css",
+    "static/js/main.18f0ec1b.js"
+  ]
+}
